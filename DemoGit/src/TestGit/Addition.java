@@ -7,7 +7,7 @@ public class Addition {
 		AddClass a=new AddClass();
 		System.out.println("Addition is: "+a.addNo(10, 20));
 		System.out.println("Multiplication is: "+a.mulNo(10, 20));
-
+		System.out.println("substractin is: "+a.subNo(10, 20));
 	}
 
 }

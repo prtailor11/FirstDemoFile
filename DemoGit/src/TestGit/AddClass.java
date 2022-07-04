@@ -14,4 +14,10 @@ public class AddClass
 		c = a*b;
 		return c;
 	}
+	public int subNo(int a,int b)
+	{
+		int c;
+		c = a-b;
+		return c;
+	}
 }
